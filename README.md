@@ -1,31 +1,16 @@
-# Create React App
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
-## Deploy Your Own
+## Woxrlds
 
-Deploy your own Create React App project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+![woxrlds](https://user-images.githubusercontent.com/11432718/229011445-a81ffc2c-685b-40e9-948d-1755b4f3e77a.gif)
 
-_Live Example: https://create-react-template.vercel.app/_
+Worlds for XR, just using an [spreadsheet](https://docs.google.com/spreadsheets/d/1k9vL3dx7VpoY3JiFpC9pHNkMGA-51HlFOIaL9zWM8r8/edit#gid=0) for data
 
-## Available Scripts
+
+## Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+### `npm install`
+### `npm star
